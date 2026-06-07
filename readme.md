@@ -62,7 +62,7 @@ generative-text-model
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/generative-text-model.git
+git clone https://github.com/venkateshwarlu195/generative-text-model.git
 ```
 
 2. Navigate to the project folder
